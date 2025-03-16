@@ -21,19 +21,24 @@
 ## Instrucciones
 
 Una vez descargado el respositorio en tu computador, ejecuta el archivo "index.html".
+
 ![Archivo index.html](assets/screenshots/index-html.png)
 
 Escribe el nombre de un amigo en el campo de texto.
+
 ![Escribiendo el nombre en el capor de texto](assets/screenshots/escribir-nombre.png)
 
 Haz clic en "Añadir" para agregarlo a la lista.
+
 ![Añadiendo amigo a la lista](assets/screenshots/añadir-nombre.png)
 
 Una vez que todos los nombres estén añadidos, haz clic en "Sortear Amigo" para realizar el sorteo.
-![Lista de amigos completa](assets/screenshots/lista-completa.png.jpg)
+
+![Lista de amigos completa](assets/screenshots/lista-completa.png)
 
 El nombre seleccionado aparecerá como resultado en la pantalla.
-![Amigo sorteado](assets/screenshots/sortear-amigo.jpg)
+
+![Amigo sorteado](assets/screenshots/sortear-amigo.png)
 
 
 ## Dependencias
