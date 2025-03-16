@@ -46,8 +46,10 @@ HTML
 CSS
 JavaScript
 
-##Autor y agradecimientos
+## Autor y agradecimientos
+
 Franco
 Muchas gracias al Equipo Alura Latam
+
 **GitHub**: FrancoAr25
 **Email**: tapamartinez@gmail.com
