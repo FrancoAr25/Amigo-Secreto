@@ -15,18 +15,20 @@
 
 ## Instalación desde GitBash
 1. Clona este repositorio en tu máquina local:
-   ```bash
+    ```bash
    git clone https://github.com/FrancoAr25/Amigo-Secreto.git
+   ```
+---
 
 ## Instrucciones
 
-Una vez descargado el respositorio en tu computador, ejecuta el archivo "index.html".
+Una vez descargado el repositorio en tu computador, ejecuta el archivo "index.html".
 
 ![Archivo index.html](assets/screenshots/index-html.png)
 
 Escribe el nombre de un amigo en el campo de texto.
 
-![Escribiendo el nombre en el capor de texto](assets/screenshots/escribir-nombre.png)
+![Escribiendo el nombre en el cmpo de texto](assets/screenshots/escribir-nombre.png)
 
 Haz clic en "Añadir" para agregarlo a la lista.
 
@@ -42,14 +44,14 @@ El nombre seleccionado aparecerá como resultado en la pantalla.
 
 
 ## Dependencias
-HTML
-CSS
-JavaScript
+- HTML
+- CSS
+- JavaScript
 
-## Autor y agradecimientos
+## Autor y Agradecimientos
 
-Franco
-Muchas gracias al Equipo Alura Latam
+- **Autor**: Franco
+- **GitHub**: [FrancoAr25](https://github.com/FrancoAr25)
+- **Email**: tapamartinez@gmail.com
 
-**GitHub**: FrancoAr25
-**Email**: tapamartinez@gmail.com
+Agradecimientos especiales al **Equipo Alura Latam** por el aprendizaje y el apoyo.
